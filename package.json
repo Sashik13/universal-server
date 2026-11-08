@@ -1,0 +1,17 @@
+{
+  "name": "universal-server",
+  "version": "1.0.0",
+  "description": "Универсальный сервер для чата, файлов и данных",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["api", "server", "railway"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
